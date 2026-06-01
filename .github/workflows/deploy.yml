@@ -1,4 +1,4 @@
-name: Deploy React App to EC2  # 이 GitHub Actions 워크플로우의 이름 (Actions 탭에 표시됨) 배포 강제 트리거 테스트 완료
+name: Deploy React App to EC2  # 이 GitHub Actions 워크플로우의 이름 (Actions 탭에 표시됨) 해치웠나
 
 on:
   push:
